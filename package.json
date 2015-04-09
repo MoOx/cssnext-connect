@@ -1,6 +1,6 @@
 {
   "name": "cssnext-connect",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Use tomorrow's CSS syntax, today, using cssnext via connect plugin",
   "main": "index.js",
   "dependencies": {
