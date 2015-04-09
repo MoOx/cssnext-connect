@@ -3,7 +3,7 @@ Use tomorrow's CSS syntax, today, using cssnext via connect plugin.
 
 ## Install
 ```
-npm install --save cssnect-connect
+npm install --save cssnext-connect
 ```
 
 ## Usage
