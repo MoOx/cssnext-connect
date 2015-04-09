@@ -5,15 +5,11 @@
   "main": "index.js",
   "dependencies": {
     "cssnext": "^1.2.1",
-    "connect": "^3.3.5",
-    "serve-static": "^1.9.2",
     "lodash": "^3.6.0",
-    "express": "^4.12.3",
     "mkdirp": "^0.5.0"
   },
-  "devDependencies": {},
   "scripts": {
-    "test": "node test.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -27,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/watilde/cssnext-connect/issues"
   },
-  "homepage": "https://github.com/watilde/cssnext-connect"
+  "homepage": "https://github.com/watilde/cssnext-connect",
+  "devDependencies": {
+    "connect": "^3.3.5",
+    "serve-static": "^1.9.2"
+  }
 }
