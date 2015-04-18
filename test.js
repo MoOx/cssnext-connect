@@ -27,7 +27,7 @@ var request = http.request(options,function(res) {
   res.setEncoding('utf8');
   res.on('data',function(data) {
     if (data !== fixture) {
-      console.error('See: diff test/fixture/style.css test/cache/nstyle.css');
+      console.error('See: diff test/fixture/style.css test/cache/style.css');
       process.exit(1);
     }
     console.log('Passed all tests');
