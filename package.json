@@ -4,7 +4,7 @@
   "description": "Use tomorrow's CSS syntax, today, using cssnext via connect plugin",
   "main": "index.js",
   "dependencies": {
-    "cssnext": "^1.2.3",
+    "cssnext": "^1.4.0",
     "lodash": "^3.6.0",
     "mkdirp": "^0.5.0"
   },
