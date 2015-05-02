@@ -1,3 +1,7 @@
+### v0.1.2(2015-05-02):
++ [66b410a](https://github.com/cssnext/cssnext-connect/commit/66b410a44bd285a4be8177e3d4225f24d89d4360) [#10](https://github.com/cssnext/cssnext-connect/pull/10) cssnext: Update cssnext version to 1.4.0 from 1.2.3. ([@watilde](https://github.com/watilde))
++ [487b861](https://github.com/cssnext/cssnext-connect/commit/487b861b19f1f549eaccb9b78850f5cf739d417c) [#10](https://github.com/cssnext/cssnext-connect/pull/10) lodash: Update lodash version to 3.8.0 from 3.7.0. ([@watilde](https://github.com/watilde))
+
 ### v0.1.1(2015-04-10):
 + [e40f5d](https://github.com/cssnext/cssnext-connect/commit/e40f5d54a2a26d6042201fb8c42c9d54468b970b) [#6](https://github.com/cssnext/cssnext-connect/pull/6) `cssnext`: Update cssnext version to 1.2.3 from 1.2.1. ([@watilde](https://github.com/watilde))
 
