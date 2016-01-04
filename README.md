@@ -1,3 +1,7 @@
+# DEPRECATED. Use postcss-middleware instead.
+
+---
+
 # [cssnext](https://github.com/cssnext/cssnext)-connect
 Use tomorrow's CSS syntax, today, using cssnext via connect plugin.
 
